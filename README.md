@@ -1,3 +1,3 @@
-# exordium.dev
+# Frontend (exordium.dev)
 
-This is the exordium.dev website repository. 
+If you're looking for the Exordium VPN, checkout https://exordium.org. This repository is just for the projects and information regarding the Exordium Development Team.
